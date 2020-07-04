@@ -18,6 +18,10 @@ git init
 
 # 与远程库连接
 git remote add origin <git地址>
+# 允许不相关历史合并
+git pull origin master --allow-unrelated-histories
+# 设置默认上传分支
+git push --set-upstream origin master
 
 ```
 
