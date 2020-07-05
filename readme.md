@@ -1,8 +1,8 @@
 # Blog
 
-<<<<<<< HEAD
 [blog](https://ModeSpr.github.io)
-=======
+
+
 ## 01 配置
 
 ```
@@ -51,4 +51,3 @@ git push
 branch
 
 ```
->>>>>>> 69bc60b44174300642c110aa91469a70c50d68bb
