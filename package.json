@@ -1,0 +1,25 @@
+{
+  "name": "modespr-blog",
+  "version": "1.0.0",
+  "description": "modespr-blog",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "bash deploy.sh",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModeSpr/myGit.git"
+  },
+  "author": "modespr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ModeSpr/myGit/issues"
+  },
+  "homepage": "https://github.com/ModeSpr/myGit#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
