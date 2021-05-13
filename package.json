@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/ModeSpr/myGit#readme",
   "devDependencies": {
-    "vuepress": "^1.5.2"
+    "vuepress": "^1.8.2"
   }
 }
